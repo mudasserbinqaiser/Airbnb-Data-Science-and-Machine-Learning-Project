@@ -1,11 +1,16 @@
 # Airbnb-Data-Science-and-Machine-Learning-Project
 "What are the factors and features of a listing that make an Airbnb listing more expensive?" That is the question this project aims to answer.
 
-We started of by collecting data of listings in Seattle from Kaggle. Then, we cleaned the data to a useful format for data analysis. We then did Exploratory Analysis on the data by focusing on 3 sub-problems:
+I started of by collecting data of Airbnb listings from Kaggle. Then, I cleaned the data to a useful format for data analysis. Then I did Exploratory Analysis on the data by focusing on 3 sub-problems:
 
 1. What are the features of a property that affect its price?
 2. Are there particular neighborhoods where Airbnb listings fetch higher prices?
 3. Does textual data in the summary and sentiments of reviews affect price?
+
+I also answered questions like:
+
+1. Can you spot any major differences in the Airbnb market between neighborhoods?
+2. Are you able to identify any trends or seasonality in the review data?
 
 Afterwards, we did Machine Learning on the data by adopting 4 different **Regression** models for our regression problem. They were:
 
