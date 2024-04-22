@@ -15,3 +15,5 @@ Afterwards, we did Machine Learning on the data by adopting 4 different **Regres
 4. CatBoost
 
 We partitioned the data into train and test sets and evaluated the models on their prediction accuracy. Once we found the most accurate prediction model, we used that model in a library called **TreeInterpreter** which decomposed the prediction into a sum of contributions from each feature. We used this to find the most important features that affected the price of a listing.
+
+Author - Mudassar Bin Qaiser
